@@ -15,9 +15,9 @@
    id="svg8"
    inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
    sodipodi:docname="ww2_freela_textures.svg"
-   inkscape:export-filename="C:\Users\danie\Documents\Matheus\Blender\2020\outubro\projects\works\ww2_freela\textura\m1903_texture.png"
-   inkscape:export-xdpi="48.000004"
-   inkscape:export-ydpi="48.000004">
+   inkscape:export-filename="C:\Users\danie\Documents\Matheus\Blender\2020\outubro\projects\american_soldier_texture.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96">
   <defs
      id="defs2">
     <linearGradient
@@ -4164,107 +4164,103 @@
          d="m 484.75481,47.656349 3.86152,-21.297964 h 20.75102"
          style="fill:none;stroke:#9ea08f;stroke-width:2.065;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     </g>
-    <g
-       inkscape:label="m1903_texture"
-       id="g2003">
-      <rect
-         style="fill:url(#linearGradient1949);fill-opacity:1;stroke:#545c14;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
-         id="rect1939"
-         width="229.51518"
-         height="226.32291"
-         x="26.762697"
-         y="28.689398" />
-      <rect
-         style="fill:#cf6b1b;fill-opacity:1;stroke:#545c14;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
-         id="rect1951"
-         width="235.25307"
-         height="226.91708"
-         x="283.28668"
-         y="27.254929" />
-      <rect
-         y="27.254929"
-         x="283.28668"
-         height="190.65179"
-         width="235.25307"
-         id="rect1953"
-         style="fill:#b05b1e;fill-opacity:1;stroke:#545c14;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke" />
-      <rect
-         style="fill:#9c5120;fill-opacity:1;stroke:#545c14;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
-         id="rect1955"
-         width="235.25307"
-         height="148.1696"
-         x="283.28668"
-         y="27.254929" />
-      <rect
-         y="27.254929"
-         x="283.28668"
-         height="108.79585"
-         width="235.25307"
-         id="rect1957"
-         style="fill:#894721;fill-opacity:1;stroke:#545c14;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke" />
-      <rect
-         style="fill:#7d4122;fill-opacity:1;stroke:#545c14;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
-         id="rect1959"
-         width="235.25307"
-         height="71.494415"
-         x="283.28668"
-         y="27.254929" />
-      <rect
-         y="27.254929"
-         x="283.28668"
-         height="34.192974"
-         width="235.25307"
-         id="rect1961"
-         style="fill:#783e23;fill-opacity:1;stroke:#545c14;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke" />
-      <rect
-         style="fill:url(#linearGradient1971);fill-opacity:1;stroke:#545c14;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
-         id="rect1963"
-         width="233.29439"
-         height="233.29439"
-         x="24.343763"
-         y="284.01056" />
-      <rect
-         style="fill:#cccccc;fill-opacity:1;stroke:#9a9a9a;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
-         id="rect1977"
-         width="223.77731"
-         height="233.8186"
-         x="295.50079"
-         y="282.59055" />
-      <rect
-         y="282.59055"
-         x="295.50079"
-         height="189.35004"
-         width="223.77731"
-         id="rect1979"
-         style="fill:#b3b3b3;fill-opacity:1;stroke:#9a9a9a;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke" />
-      <rect
-         style="fill:#808080;fill-opacity:1;stroke:#9a9a9a;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
-         id="rect1981"
-         width="223.77731"
-         height="137.70912"
-         x="295.50079"
-         y="282.59055" />
-      <rect
-         y="282.59055"
-         x="295.50079"
-         height="90.371613"
-         width="223.77731"
-         id="rect1983"
-         style="fill:#4d4d4d;fill-opacity:1;stroke:#9a9a9a;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke" />
-      <rect
-         style="fill:#1a1a1a;fill-opacity:1;stroke:#1a1a1a;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
-         id="rect1985"
-         width="223.77731"
-         height="50.206455"
-         x="295.50079"
-         y="282.59055" />
-      <rect
-         y="282.59055"
-         x="295.50079"
-         height="50.206455"
-         width="223.77731"
-         id="rect1987"
-         style="fill:#1a1a1a;fill-opacity:1;stroke:#1a1a1a;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke" />
-    </g>
+    <rect
+       y="28.689398"
+       x="26.762697"
+       height="226.32291"
+       width="229.51518"
+       id="rect1939"
+       style="fill:url(#linearGradient1949);fill-opacity:1;stroke:#545c14;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke" />
+    <rect
+       y="27.254929"
+       x="283.28668"
+       height="226.91708"
+       width="235.25307"
+       id="rect1951"
+       style="fill:#cf6b1b;fill-opacity:1;stroke:#545c14;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke" />
+    <rect
+       style="fill:#b05b1e;fill-opacity:1;stroke:#545c14;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+       id="rect1953"
+       width="235.25307"
+       height="190.65179"
+       x="283.28668"
+       y="27.254929" />
+    <rect
+       y="27.254929"
+       x="283.28668"
+       height="148.1696"
+       width="235.25307"
+       id="rect1955"
+       style="fill:#9c5120;fill-opacity:1;stroke:#545c14;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke" />
+    <rect
+       style="fill:#894721;fill-opacity:1;stroke:#545c14;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+       id="rect1957"
+       width="235.25307"
+       height="108.79585"
+       x="283.28668"
+       y="27.254929" />
+    <rect
+       y="27.254929"
+       x="283.28668"
+       height="71.494415"
+       width="235.25307"
+       id="rect1959"
+       style="fill:#7d4122;fill-opacity:1;stroke:#545c14;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke" />
+    <rect
+       style="fill:#783e23;fill-opacity:1;stroke:#545c14;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+       id="rect1961"
+       width="235.25307"
+       height="34.192974"
+       x="283.28668"
+       y="27.254929" />
+    <rect
+       y="284.01056"
+       x="24.343763"
+       height="233.29439"
+       width="233.29439"
+       id="rect1963"
+       style="fill:url(#linearGradient1971);fill-opacity:1;stroke:#545c14;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke" />
+    <rect
+       y="282.59055"
+       x="295.50079"
+       height="233.8186"
+       width="223.77731"
+       id="rect1977"
+       style="fill:#cccccc;fill-opacity:1;stroke:#9a9a9a;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke" />
+    <rect
+       style="fill:#b3b3b3;fill-opacity:1;stroke:#9a9a9a;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+       id="rect1979"
+       width="223.77731"
+       height="189.35004"
+       x="295.50079"
+       y="282.59055" />
+    <rect
+       y="282.59055"
+       x="295.50079"
+       height="137.70912"
+       width="223.77731"
+       id="rect1981"
+       style="fill:#808080;fill-opacity:1;stroke:#9a9a9a;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke" />
+    <rect
+       style="fill:#4d4d4d;fill-opacity:1;stroke:#9a9a9a;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+       id="rect1983"
+       width="223.77731"
+       height="90.371613"
+       x="295.50079"
+       y="282.59055" />
+    <rect
+       y="282.59055"
+       x="295.50079"
+       height="50.206455"
+       width="223.77731"
+       id="rect1985"
+       style="fill:#1a1a1a;fill-opacity:1;stroke:#1a1a1a;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke" />
+    <rect
+       style="fill:#1a1a1a;fill-opacity:1;stroke:#1a1a1a;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+       id="rect1987"
+       width="223.77731"
+       height="50.206455"
+       x="295.50079"
+       y="282.59055" />
   </g>
 </svg>
