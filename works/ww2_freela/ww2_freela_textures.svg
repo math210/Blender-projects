@@ -13,11 +13,11 @@
    viewBox="0 0 541.86665 541.86668"
    version="1.1"
    id="svg8"
-   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
    sodipodi:docname="ww2_freela_textures.svg"
-   inkscape:export-filename="C:\Users\danie\Documents\Matheus\Blender\2020\outubro\projects\american_soldier_texture.png"
-   inkscape:export-xdpi="96"
-   inkscape:export-ydpi="96">
+   inkscape:export-filename="C:\Users\samuc\Documents\Matheus\blender\Blender-projects\works\ww2_freela\textura\m1903_texture.png"
+   inkscape:export-xdpi="24.000002"
+   inkscape:export-ydpi="24.000002">
   <defs
      id="defs2">
     <linearGradient
@@ -38,11 +38,11 @@
       <stop
          id="stop1941"
          offset="0"
-         style="stop-color:#763d23;stop-opacity:1" />
+         style="stop-color:#612518;stop-opacity:1" />
       <stop
          id="stop1943"
          offset="1"
-         style="stop-color:#cf6b1b;stop-opacity:1" />
+         style="stop-color:#cf3d1b;stop-opacity:1" />
     </linearGradient>
     <linearGradient
        inkscape:collect="always"
@@ -1060,16 +1060,16 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.18444676"
-     inkscape:cx="1081.4244"
-     inkscape:cy="1185.2219"
+     inkscape:cx="1457.7645"
+     inkscape:cy="1270.6828"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      inkscape:document-rotation="0"
      showgrid="false"
      units="px"
      inkscape:snap-page="true"
-     inkscape:window-width="1280"
-     inkscape:window-height="697"
+     inkscape:window-width="1366"
+     inkscape:window-height="705"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
@@ -1101,25 +1101,25 @@
        y="0"
        style="display:none" />
     <image
-       sodipodi:absref="C:\Users\danie\Documents\Matheus\Blender\2020\outubro\projects\Cube.003.png"
+       sodipodi:absref="C:\Users\samuc\Documents\Matheus\blender\Blender-projects\works\ww2_freela\Cube.003.png"
        xlink:href="Cube.003.png"
-       y="0"
-       x="4.2632564e-14"
-       width="541.86664"
-       height="541.86664"
-       preserveAspectRatio="none"
+       style="display:none"
        id="image1127"
-       style="display:none" />
-    <image
-       sodipodi:absref="C:\Users\danie\Documents\Matheus\Blender\2020\outubro\projects\Cube.003 Cube.007 Cube.015 and more.png"
-       xlink:href="Cube.003%20Cube.007%20Cube.015%20and%20more.png"
-       y="0"
-       x="0"
-       width="541.86664"
-       height="541.86664"
        preserveAspectRatio="none"
+       height="541.86664"
+       width="541.86664"
+       x="4.2632564e-14"
+       y="0" />
+    <image
+       sodipodi:absref="C:\Users\samuc\Documents\Matheus\blender\Blender-projects\works\ww2_freela\Cube.003 Cube.007 Cube.015 and more.png"
+       xlink:href="Cube.003%20Cube.007%20Cube.015%20and%20more.png"
+       style="display:none"
        id="image1099"
-       style="display:none" />
+       preserveAspectRatio="none"
+       height="541.86664"
+       width="541.86664"
+       x="0"
+       y="0" />
     <g
        transform="translate(-0.00453286,-0.06897355)"
        id="g3898"
@@ -2610,25 +2610,25 @@
          inkscape:transform-center-y="-3.5997296e-06" />
     </g>
     <image
-       sodipodi:absref="C:\Users\danie\Documents\Matheus\Blender\2020\outubro\projects\american_soldier_texture_raw.png"
-       xlink:href="american_soldier_texture_raw.png"
-       y="1.1368684e-13"
-       x="0"
-       width="541.86664"
-       height="541.86664"
-       preserveAspectRatio="none"
+       sodipodi:absref="C:\Users\samuc\Documents\Matheus\blender\Blender-projects\works\ww2_freela\..\..\..\..\american_soldier_texture_raw.png"
+       xlink:href="..%5C..%5C..%5C..%5Camerican_soldier_texture_raw.png"
+       style="display:none"
        id="image1987"
-       style="display:none" />
-    <image
-       sodipodi:absref="C:\Users\danie\Documents\Matheus\Blender\2020\outubro\projects\american_soldier_UVlayout.png"
-       xlink:href="american_soldier_UVlayout.png"
-       y="1.1368684e-13"
-       x="0"
-       width="541.86664"
-       height="541.86664"
        preserveAspectRatio="none"
+       height="541.86664"
+       width="541.86664"
+       x="0"
+       y="1.1368684e-13" />
+    <image
+       sodipodi:absref="C:\Users\samuc\Documents\Matheus\blender\Blender-projects\works\ww2_freela\american_soldier_UVlayout.png"
+       xlink:href="american_soldier_UVlayout.png"
+       style="display:none"
        id="image2001"
-       style="display:none" />
+       preserveAspectRatio="none"
+       height="541.86664"
+       width="541.86664"
+       x="0"
+       y="1.1368684e-13" />
     <g
        style="display:none"
        id="g1957"

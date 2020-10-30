@@ -13,37 +13,13 @@
    viewBox="0 0 541.86665 541.86668"
    version="1.1"
    id="svg8"
-   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
    sodipodi:docname="ww2_freela_textures.svg"
    inkscape:export-filename="C:\Users\danie\Documents\Matheus\Blender\2020\outubro\projects\works\ww2_freela\textura\m1903_texture.png"
    inkscape:export-xdpi="48.000004"
    inkscape:export-ydpi="48.000004">
   <defs
      id="defs2">
-    <linearGradient
-       id="linearGradient1969"
-       inkscape:collect="always">
-      <stop
-         id="stop1965"
-         offset="0"
-         style="stop-color:#181818;stop-opacity:1" />
-      <stop
-         id="stop1967"
-         offset="1"
-         style="stop-color:#a3a3a3;stop-opacity:1" />
-    </linearGradient>
-    <linearGradient
-       id="linearGradient1945"
-       inkscape:collect="always">
-      <stop
-         id="stop1941"
-         offset="0"
-         style="stop-color:#763d23;stop-opacity:1" />
-      <stop
-         id="stop1943"
-         offset="1"
-         style="stop-color:#cf6b1b;stop-opacity:1" />
-    </linearGradient>
     <linearGradient
        inkscape:collect="always"
        id="linearGradient1909">
@@ -1032,25 +1008,6 @@
        id="linearGradient1917"
        xlink:href="#linearGradient1909"
        inkscape:collect="always" />
-    <linearGradient
-       gradientTransform="matrix(1,0,0,0.71715728,8.1145873,8.1145874)"
-       y2="18.648096"
-       x2="136.27464"
-       y1="347.14172"
-       x1="136.27464"
-       gradientUnits="userSpaceOnUse"
-       id="linearGradient1949"
-       xlink:href="#linearGradient1945"
-       inkscape:collect="always" />
-    <linearGradient
-       gradientUnits="userSpaceOnUse"
-       y2="281.59674"
-       x2="134.79794"
-       y1="518.2843"
-       x1="134.79794"
-       id="linearGradient1971"
-       xlink:href="#linearGradient1969"
-       inkscape:collect="always" />
   </defs>
   <sodipodi:namedview
      id="base"
@@ -1059,17 +1016,17 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.18444676"
-     inkscape:cx="1081.4244"
-     inkscape:cy="1185.2219"
+     inkscape:zoom="0.26084711"
+     inkscape:cx="979.6468"
+     inkscape:cy="653.5227"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      inkscape:document-rotation="0"
      showgrid="false"
      units="px"
      inkscape:snap-page="true"
-     inkscape:window-width="1280"
-     inkscape:window-height="697"
+     inkscape:window-width="1366"
+     inkscape:window-height="705"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
@@ -1101,25 +1058,25 @@
        y="0"
        style="display:none" />
     <image
-       sodipodi:absref="C:\Users\danie\Documents\Matheus\Blender\2020\outubro\projects\Cube.003.png"
+       sodipodi:absref="C:\Users\samuc\Documents\Matheus\blender\Blender-projects\Cube.003.png"
        xlink:href="Cube.003.png"
-       y="0"
-       x="4.2632564e-14"
-       width="541.86664"
-       height="541.86664"
-       preserveAspectRatio="none"
+       style="display:none"
        id="image1127"
-       style="display:none" />
-    <image
-       sodipodi:absref="C:\Users\danie\Documents\Matheus\Blender\2020\outubro\projects\Cube.003 Cube.007 Cube.015 and more.png"
-       xlink:href="Cube.003%20Cube.007%20Cube.015%20and%20more.png"
-       y="0"
-       x="0"
-       width="541.86664"
-       height="541.86664"
        preserveAspectRatio="none"
+       height="541.86664"
+       width="541.86664"
+       x="4.2632564e-14"
+       y="0" />
+    <image
+       sodipodi:absref="C:\Users\samuc\Documents\Matheus\blender\Blender-projects\Cube.003 Cube.007 Cube.015 and more.png"
+       xlink:href="Cube.003%20Cube.007%20Cube.015%20and%20more.png"
+       style="display:none"
        id="image1099"
-       style="display:none" />
+       preserveAspectRatio="none"
+       height="541.86664"
+       width="541.86664"
+       x="0"
+       y="0" />
     <g
        transform="translate(-0.00453286,-0.06897355)"
        id="g3898"
@@ -2610,25 +2567,25 @@
          inkscape:transform-center-y="-3.5997296e-06" />
     </g>
     <image
-       sodipodi:absref="C:\Users\danie\Documents\Matheus\Blender\2020\outubro\projects\american_soldier_texture_raw.png"
+       sodipodi:absref="C:\Users\samuc\Documents\Matheus\blender\Blender-projects\american_soldier_texture_raw.png"
        xlink:href="american_soldier_texture_raw.png"
-       y="1.1368684e-13"
-       x="0"
-       width="541.86664"
-       height="541.86664"
-       preserveAspectRatio="none"
+       style="display:none"
        id="image1987"
-       style="display:none" />
-    <image
-       sodipodi:absref="C:\Users\danie\Documents\Matheus\Blender\2020\outubro\projects\american_soldier_UVlayout.png"
-       xlink:href="american_soldier_UVlayout.png"
-       y="1.1368684e-13"
-       x="0"
-       width="541.86664"
-       height="541.86664"
        preserveAspectRatio="none"
+       height="541.86664"
+       width="541.86664"
+       x="0"
+       y="1.1368684e-13" />
+    <image
+       sodipodi:absref="C:\Users\samuc\Documents\Matheus\blender\Blender-projects\american_soldier_UVlayout.png"
+       xlink:href="american_soldier_UVlayout.png"
+       style="display:none"
        id="image2001"
-       style="display:none" />
+       preserveAspectRatio="none"
+       height="541.86664"
+       width="541.86664"
+       x="0"
+       y="1.1368684e-13" />
     <g
        style="display:none"
        id="g1957"
@@ -4164,107 +4121,76 @@
          d="m 484.75481,47.656349 3.86152,-21.297964 h 20.75102"
          style="fill:none;stroke:#9ea08f;stroke-width:2.065;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     </g>
-    <g
-       inkscape:label="m1903_texture"
-       id="g2003">
-      <rect
-         style="fill:url(#linearGradient1949);fill-opacity:1;stroke:#545c14;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
-         id="rect1939"
-         width="229.51518"
-         height="226.32291"
-         x="26.762697"
-         y="28.689398" />
-      <rect
-         style="fill:#cf6b1b;fill-opacity:1;stroke:#545c14;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
-         id="rect1951"
-         width="235.25307"
-         height="226.91708"
-         x="283.28668"
-         y="27.254929" />
-      <rect
-         y="27.254929"
-         x="283.28668"
-         height="190.65179"
-         width="235.25307"
-         id="rect1953"
-         style="fill:#b05b1e;fill-opacity:1;stroke:#545c14;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke" />
-      <rect
-         style="fill:#9c5120;fill-opacity:1;stroke:#545c14;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
-         id="rect1955"
-         width="235.25307"
-         height="148.1696"
-         x="283.28668"
-         y="27.254929" />
-      <rect
-         y="27.254929"
-         x="283.28668"
-         height="108.79585"
-         width="235.25307"
-         id="rect1957"
-         style="fill:#894721;fill-opacity:1;stroke:#545c14;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke" />
-      <rect
-         style="fill:#7d4122;fill-opacity:1;stroke:#545c14;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
-         id="rect1959"
-         width="235.25307"
-         height="71.494415"
-         x="283.28668"
-         y="27.254929" />
-      <rect
-         y="27.254929"
-         x="283.28668"
-         height="34.192974"
-         width="235.25307"
-         id="rect1961"
-         style="fill:#783e23;fill-opacity:1;stroke:#545c14;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke" />
-      <rect
-         style="fill:url(#linearGradient1971);fill-opacity:1;stroke:#545c14;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
-         id="rect1963"
-         width="233.29439"
-         height="233.29439"
-         x="24.343763"
-         y="284.01056" />
-      <rect
-         style="fill:#cccccc;fill-opacity:1;stroke:#9a9a9a;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
-         id="rect1977"
-         width="223.77731"
-         height="233.8186"
-         x="295.50079"
-         y="282.59055" />
-      <rect
-         y="282.59055"
-         x="295.50079"
-         height="189.35004"
-         width="223.77731"
-         id="rect1979"
-         style="fill:#b3b3b3;fill-opacity:1;stroke:#9a9a9a;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke" />
-      <rect
-         style="fill:#808080;fill-opacity:1;stroke:#9a9a9a;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
-         id="rect1981"
-         width="223.77731"
-         height="137.70912"
-         x="295.50079"
-         y="282.59055" />
-      <rect
-         y="282.59055"
-         x="295.50079"
-         height="90.371613"
-         width="223.77731"
-         id="rect1983"
-         style="fill:#4d4d4d;fill-opacity:1;stroke:#9a9a9a;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke" />
-      <rect
-         style="fill:#1a1a1a;fill-opacity:1;stroke:#1a1a1a;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
-         id="rect1985"
-         width="223.77731"
-         height="50.206455"
-         x="295.50079"
-         y="282.59055" />
-      <rect
-         y="282.59055"
-         x="295.50079"
-         height="50.206455"
-         width="223.77731"
-         id="rect1987"
-         style="fill:#1a1a1a;fill-opacity:1;stroke:#1a1a1a;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke" />
-    </g>
+    <image
+       width="541.86664"
+       height="541.86664"
+       preserveAspectRatio="none"
+       xlink:href="data:image/png;base64,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
+AGjhPz6NZvkNTLyUAAAAAElFTkSuQmCC
+"
+       id="image1576"
+       x="2.8483073e-05"
+       y="2.8483073e-05"
+       style="display:inline" />
   </g>
 </svg>
